@@ -63,6 +63,10 @@ In these Tasks ,  I used different programming techniques in python
                          staticmethod.py
 
 
+
+## In data folder 2 txt files are available for the use in File_manipulation .
+      you can use also other file path 
+
 ## 📸 Sample Outputs
 Outputs of all programs are stored in the [outputs](outputs/) folder.
 
